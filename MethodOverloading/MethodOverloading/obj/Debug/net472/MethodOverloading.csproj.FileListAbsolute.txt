@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net472\MethodOverloading.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net472\MethodOverloading.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\bin\Debug\net472\MethodOverloading.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\MethodOverloading\MethodOverloading\MethodOverloading\obj\Debug\net472\MethodOverloading.pdb
